@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.graearea.paneless.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.graearea.paneless.MyBundle
 
 class MyApplicationService {
 
